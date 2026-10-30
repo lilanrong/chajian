@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Desktop Notifications",
+    "description": "Shows a Windows toast notification in the bottom-right corner when a task finishes or your input is needed, similar to Codex."
+  }
+}

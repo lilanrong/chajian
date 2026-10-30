@@ -1,0 +1,4 @@
+# dsh-notify-toast bundle patch: Host 插件，任务完成 / 需要选择时弹 Windows 右下角通知。
+- insert:
+    - id: dsh-notify-toast
+      name: dsh-notify-toast

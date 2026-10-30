@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "通知提醒",
+    "description": "任务完成或需要你选择时，在 Windows 右下角弹出系统通知，类似 Codex 的提醒。"
+  }
+}
